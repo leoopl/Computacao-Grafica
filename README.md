@@ -3,13 +3,17 @@
 
 
 Janela:
-      Abrir : 'j'
+      Abrir : 'j'      
+      
       Fechar : 'w'
 
 Porta:
-     Abrir : 'o'
+     Abrir : 'o'     
+     
      Fechar : 'c'
      
 Movimentação:
+
      Mouse;
+     
      Teclado de setas;
