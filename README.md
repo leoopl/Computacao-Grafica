@@ -3,11 +3,13 @@
 
 
 Janela:
+
       Abrir : 'j'      
       
       Fechar : 'w'
 
 Porta:
+
      Abrir : 'o'     
      
      Fechar : 'c'
