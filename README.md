@@ -1,4 +1,4 @@
-# Projeto-CG-PLE
+# Projeto Computação Gráfica
 
 
 
